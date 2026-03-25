@@ -1,12 +1,10 @@
 .karta {    
     margin: 350px;             
-    padding: 20px;             
+    padding: 20px;   
     background-color: rgb(234, 239, 241);
     border: 1px solid #ccc;      
     border-radius: 15px;         
-    text-decoration: none;
     color: black;
-    cursor: wait;
     display: flex;
     flex-direction: column;
     width: 260px;

@@ -1,15 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: white;
+}
+
 .karta {    
-    margin: 350px;             
     padding: 20px;   
-    background-color: rgb(234, 239, 241);
+    background-color: white;
     border: 1px solid #ccc;      
     border-radius: 15px;         
-    color: black;
-    display: flex;
-    flex-direction: column;
     width: 260px;
     text-align: center;
-    box-shadow: inset;
+    height: auto;
+    align-self: auto;
 }
 
 .obrazek {
